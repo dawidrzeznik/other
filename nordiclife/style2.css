@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'afta_serifregular';
+    src: url('aftaserifthin-regular-webfont.eot');
+    src: url('aftaserifthin-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('aftaserifthin-regular-webfont.woff') format('woff'),
+         url('aftaserifthin-regular-webfont.ttf') format('truetype'),
+         url('aftaserifthin-regular-webfont.svg#afta_serifregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+body {
+	background: #e9e4db;
+	font-family: 'afta_serifregular',Verdana;
+	font-size: 20px;
+	color: #fff;
+	
+}
+f{font-size: 20px; font-family: 'afta_serifregular'; text-align:center;}
+p {color:white;}
+li  {color:red; }
+ #caly_blok {
+        overflow:hidden;
+        width:1000;
+		height:700;
+        margin:auto;
+        
+      } 
+	  
+       #pierwszy {
+        float:left;
+        width:320;
+		height:100%;
+        background-color:#2e3092;
+      }
+	  
+       #drugi {
+        float:left; 
+        width:680;
+		height:100%;
+		
+        
+		
+
+}  
+
+#menu1 {list-style-type:none; margin:0; padding:0; width:100%; height:27%; text-align:center;}
+#menu1 li a {text-decoration:none; display:block; 
+	  padding:10px 5px; color:#fff; transition:300ms; -moz-transition:300ms; -webkit-transition:300ms; -o-transition:300ms;}
+#menu1 li a:hover {color:#ff0000; padding-left:15px;}
+.logo{
+height:20%;
+width:100%;
+text-align:center;
+padding-top:4%;
+padding-bottom:5%;
+}
+.kreska{
+width:100%;
+text-align:center;
+padding:2%;
+}
+
+.kontakt{
+width:100%;
+text-align:center;
+line-height:127%;
+font-size:20;
+}
+
+.tresc{
+width:300;
+padding:10;
+float:left;
+font-size:14;
+font-family:Tahoma;
+}
+
+/* .imagewrapper {
+  width: 100%; 
+  height: 100%;
+}
+.imagewrapper img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto; 
+  height: auto;
+} */
