@@ -1,0 +1,698 @@
+(deffunction car2 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - powiadamianie wibracyjne " crlf
+  " - zegar, kalendarz " crlf) 
+
+)
+
+(deffunction car3 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - wybieranie numerow za pomoca glosu " crlf
+  " - dyktafon " crlf
+  " - organizer  " crlf
+  " - zegar, kalendarz "  crlf) 
+
+)
+
+(deffunction car4 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - zegar, kalendarz " crlf
+  " - zapamietywanie adresu " crlf
+  " - klips "  crlf) 
+
+)
+
+(deffunction car5 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - bateria wibracyjna " crlf
+  " - kalkulator " crlf
+  " - klips "  crlf) 
+
+)
+
+(deffunction car6 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - budzik, zegarek " crlf
+  " - przypomnienie o spotkaniu " crlf
+  " - klips "  crlf) 
+
+)
+
+(deffunction car7 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - zintegrowany zestaw gosnomowiacy, kalendarz " crlf
+  " - budzik, zegarek " crlf
+  " - zapamietywanie adresu " crlf
+  " - klips "  crlf) 
+
+)
+
+(deffunction car8 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - wybieranie jednoprzyciskowe " crlf
+  " - zintegrowany zestaw gosnomowiacy,kalendarz " crlf
+  " - klips "  crlf) 
+
+)
+
+(deffunction car9 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " carefon nie ma dodatkowych funkcji, ale jest maly i lekki "  crlf ) 
+
+)
+
+(deffunction car10 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - dyktafon " crlf
+  " - zegarek " crlf
+  " - Dual band GSM/DCS 900/1800 " crlf
+  " - 14 wersji jezykowych  "  crlf) 
+
+)
+
+(deffunction car11 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " carefon nie ma dodatkowych funkcji "  crlf) 
+
+)
+
+(deffunction car12 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - zegarek " crlf
+  " - Dual band GSM/DCS 900/1800 " crlf
+  " - 10 wersji jezykowych  "  crlf)
+
+)
+
+(deffunction car13 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " carefon nie ma dodatkowych funkcji "  crlf) 
+
+)
+
+(deffunction car14 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " carefon nie ma dodatkowych funkcji "  crlf) 
+
+)
+
+(deffunction car15 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - zegar, kalendarz " crlf
+  " - organizer " crlf
+  " - kalkulator " crlf
+  " - wysuwany mikrofon "  crlf) 
+
+)
+
+(deffunction car16 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - powiadamianie wibracyjne " crlf
+  " - zegarek " crlf
+  " - kalkulator " crlf
+  " - dual band GSM/DCS 900/1800 " crlf
+  " - animowane menu "  crlf) 
+
+)
+
+(deffunction car17 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - wybieranie jednoprzyciskowe " crlf
+  " - bateria wibracyjna " crlf
+  " - zegar, budzik "  crlf) 
+
+)
+
+(deffunction car18 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " carefon nie ma dodatkowych funkcji "  crlf) 
+
+)
+
+(deffunction car19 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - powiadamianie wibracyjne " crlf
+  " - dyktafon " crlf
+  " - dual band GSM/DCS 900/1800 "  crlf) 
+
+)
+
+(deffunction car20 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " carefon nie ma dodatkowych funkcji "  crlf) 
+
+)
+
+(deffunction car21 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - powiadamianie wibracyjne " crlf
+  " - data " crlf
+  " - kalkulator " crlf
+  " - alarm " crlf
+  " - terminarz "  crlf) 
+
+)
+
+(deffunction car22 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " carefon nie ma dodatkowych funkcji "  crlf) 
+
+)
+
+(deffunction car23 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " carefon nie ma dodatkowych funkcji "  crlf) 
+
+)
+
+(deffunction car24 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - wibrator " crlf
+  " - 19 wersji jezykowych menu (calkowicie bezuzyteczne) "  crlf) 
+
+)
+
+(deffunction car25 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - wibrator " crlf
+  " - dyktafon "  crlf) 
+
+)
+
+(deffunction car26 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - wibrator " crlf
+  " - dyktafon " crlf
+  " - wbudowany modem "  crlf) 
+
+)
+
+(deffunction car27 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - dual band GSM 900/1800 " crlf
+  " - wibrator " crlf
+  " - dyktafon " crlf
+  " - wbudowany modem "  crlf) 
+
+)
+
+(deffunction car28 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - Jog-Dial "  crlf) 
+
+)
+
+(deffunction car29 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - dual band GSM 900/PCS1900 "  crlf) 
+
+)
+
+(deffunction car30 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - bateria wibracyjna " crlf
+  " - kalkulator " crlf
+  " - budzik z zegarkiem " crlf
+  " - zapamietywanie adresu " crlf
+  " - dual band 900/1800  "  crlf) 
+
+)
+
+(deffunction car31 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " carefon nie ma dodatkowych funkcji "  crlf) 
+
+)
+
+(deffunction car32 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " carefon nie ma dodatkowych funkcji "  crlf) 
+
+)
+
+(deffunction car33 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - kalkulator " crlf
+  " - budzik, zegarek " crlf
+  " - klips "  crlf) 
+
+)
+
+(deffunction car34 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " carefon nie ma dodatkowych funkcji "  crlf) 
+
+)
+
+(deffunction car35 ()
+(printout t " " crlf)
+(printout t "carefon ma rowniez funkcje: " crlf
+  " - wbudowany modem " crlf
+  " - kalkulator " crlf
+  " - budzik, zegarek " crlf
+  " - klips "  crlf) 
+
+)
+
+
+
+(defrule rule2
+    (wielkosc_car {wielkosc == duzy})
+	(czuwanie_h {czuwanie > 0 && czuwanie <= 100 })
+	(rozmowy_min {rozmowy > 100 && rozmowy <= 200})
+	(cena_car {cena > 500 && cena <= 750})
+=>
+(printout t " " crlf)
+(printout t "Alcacar One Touch Pocket " crlf)
+(car2 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule3
+    (wielkosc_car {wielkosc == sredni})
+	(czuwanie_h {czuwanie > 0 && czuwanie <= 100 })
+	(rozmowy_min {rozmowy > 100 && rozmowy <= 200})
+	(cena_car {cena > 500 && cena <= 750})
+=>
+(printout t " " crlf)
+(printout t "Alcacar One Touch View " crlf)
+(car3 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule4
+    (wielkosc_car {wielkosc == maly})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 100 && rozmowy <= 200})
+	(cena_car {cena > 500 && cena <= 750})
+=>
+(printout t " " crlf)
+(printout t "Alcacar One Touch Club " crlf)
+(car4 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule5
+    (wielkosc_car {wielkosc == duzy})
+	(czuwanie_h {czuwanie > 0 && czuwanie <= 100 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 250 && cena <= 500})
+=>
+(printout t " " crlf)
+(printout t "Alcacar One Touch Club+ " crlf)
+(car5 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule6
+    (wielkosc_car {wielkosc == sredni})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 250 && cena <= 500})
+=>
+(printout t " " crlf)
+(printout t "Alcacar One Touch Easy HF " crlf)
+(car6 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule7
+    (wielkosc_car {wielkosc == duzy})
+	(czuwanie_h {czuwanie > 0 && czuwanie <= 100 })
+	(rozmowy_min {rozmowy > 100 && rozmowy <= 200})
+	(cena_car {cena > 0 && cena <= 250})
+=>
+(printout t " " crlf)
+(printout t "Alcacar One Touch Max " crlf)
+(car7 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule8
+    (wielkosc_car {wielkosc == sredni})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 250 && cena <= 500})
+=>
+(printout t " " crlf)
+(printout t "Alcacar One Touch db " crlf)
+(car8 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule9
+    (wielkosc_car {wielkosc == maly})
+	(czuwanie_h {czuwanie > 0 && czuwanie <= 100 })
+	(rozmowy_min {rozmowy > 100 && rozmowy <= 200})
+	(cena_car {cena > 750 && cena <= 1000})
+=>
+(printout t " " crlf)
+(printout t "Motorola Star Tac " crlf)
+(car9 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule10
+    (wielkosc_car {wielkosc == sredni})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 750 && cena <= 1000})
+=>
+(printout t " " crlf)
+(printout t "Motorola CD930 " crlf)
+(car10 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule11
+    (wielkosc_car {wielkosc == duzy})
+	(czuwanie_h {czuwanie > 0 && czuwanie <= 100 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 750 && cena <= 1000})
+=>
+(printout t " " crlf)
+(printout t "Motorola M3688 " crlf)
+(car11 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule12
+    (wielkosc_car {wielkosc == maly})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 100 && rozmowy <= 200})
+	(cena_car {cena > 500 && cena <= 750})
+=>
+(printout t " " crlf)
+(printout t "Motorola V3688 " crlf)
+(car12 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule13
+    (wielkosc_car {wielkosc == sredni})
+	(czuwanie_h {czuwanie > 0 && czuwanie <= 100 })
+	(rozmowy_min {rozmowy > 100 && rozmowy <= 200})
+	(cena_car {cena > 250 && cena <= 500})
+=>
+(printout t " " crlf)
+(printout t "Philips Twist " crlf)
+(car13 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule14
+    (wielkosc_car {wielkosc == duzy})
+	(czuwanie_h {czuwanie > 0 && czuwanie <= 100 })
+	(rozmowy_min {rozmowy > 100 && rozmowy <= 200})
+	(cena_car {cena > 250 && cena <= 500})
+=>
+(printout t " " crlf)
+(printout t "Philips Diga " crlf)
+(car14 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule15
+    (wielkosc_car {wielkosc == sredni})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 0 && cena <= 250})
+=>
+(printout t " " crlf)
+(printout t "Philips Genie " crlf)
+(car15 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule16
+    (wielkosc_car {wielkosc == duzy})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 0 && cena <= 250})
+=>
+(printout t " " crlf)
+(printout t "Nokia 3210 " crlf)
+(car16 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule17
+    (wielkosc_car {wielkosc == maly})
+	(czuwanie_h {czuwanie > 200 && czuwanie <= 300 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 750 && cena <= 1000})
+=>
+(printout t " " crlf)
+(printout t "Nokia 5110 " crlf)
+(car17 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule18
+    (wielkosc_car {wielkosc == duzy})
+	(czuwanie_h {czuwanie > 200 && czuwanie <= 300 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 750 && cena <= 1000})
+=>
+(printout t " " crlf)
+(printout t "Nokia 6110 " crlf)
+(car18 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule19
+    (wielkosc_car {wielkosc == duzy})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 100 && rozmowy <= 200})
+	(cena_car {cena > 500 && cena <= 750})
+=>
+(printout t " " crlf)
+(printout t "Nokia 6150 " crlf)
+(car19 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule20
+    (wielkosc_car {wielkosc == sredni})
+	(czuwanie_h {czuwanie > 0 && czuwanie <= 100 })
+	(rozmowy_min {rozmowy > 100 && rozmowy <= 200})
+	(cena_car {cena > 500 && cena <= 750})
+=>
+(printout t " " crlf)
+(printout t "Nokia 8110 " crlf)
+(car20 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule21
+    (wielkosc_car {wielkosc == maly})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 100 && rozmowy <= 200})
+	(cena_car {cena > 250 && cena <= 500})
+=>
+(printout t " " crlf)
+(printout t "Nokia 8810A " crlf)
+(car21 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule22
+    (wielkosc_car {wielkosc == duzy})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 100 && rozmowy <= 200})
+	(cena_car {cena > 750 && cena <= 1000})
+=>
+(printout t " " crlf)
+(printout t "Nokia 9000 " crlf)
+(car22 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule23
+    (wielkosc_car {wielkosc == maly})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 100 && rozmowy <= 200})
+	(cena_car {cena > 250 && cena <= 500})
+=>
+(printout t " " crlf)
+(printout t "Nokia 9110 " crlf)
+(car23 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule24
+    (wielkosc_car {wielkosc == sredni})
+	(czuwanie_h {czuwanie > 0 && czuwanie <= 100 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 500 && cena <= 750})
+=>
+(printout t " " crlf)
+(printout t "Panasonic G 520 " crlf)
+(car24 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule25
+    (wielkosc_car {wielkosc == duzy})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 0 && cena <= 250})
+=>
+(printout t " " crlf)
+(printout t "Panasonic G 600 " crlf)
+(car25 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule26
+    (wielkosc_car {wielkosc == sredni})
+	(czuwanie_h {czuwanie > 0 && czuwanie <= 100 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 0 && cena <= 250})
+=>
+(printout t " " crlf)
+(printout t "Panasonic G 600i " crlf)
+(car26 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule27
+    (wielkosc_car {wielkosc == maly})
+	(czuwanie_h {czuwanie > 0 && czuwanie <= 100 })
+	(rozmowy_min {rozmowy > 0 && rozmowy <= 100})
+	(cena_car {cena > 250 && cena <= 500})
+=>
+(printout t " " crlf)
+(printout t "Panasonic GD 90 " crlf)
+(car27 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule28
+    (wielkosc_car {wielkosc == maly})
+	(czuwanie_h {czuwanie > 200 && czuwanie <= 300 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 500 && cena <= 750})
+=>
+(printout t " " crlf)
+(printout t "Sony CMD-C1 " crlf)
+(car28 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule29
+    (wielkosc_car {wielkosc == duzy})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 100 && rozmowy <= 200})
+	(cena_car {cena > 0 && cena <= 250})
+=>
+(printout t " " crlf)
+(printout t "Bosch World 718 " crlf)
+(car29 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule30
+    (wielkosc_car {wielkosc == maly})
+	(czuwanie_h {czuwanie > 0 && czuwanie <= 100 })
+	(rozmowy_min {rozmowy > 0 && rozmowy <= 100})
+	(cena_car {cena > 500 && cena <= 750})
+=>
+(printout t " " crlf)
+(printout t "Ericsson A1018s " crlf)
+(car30 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule31
+    (wielkosc_car {wielkosc == sredni})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 500 && cena <= 750})
+=>
+(printout t " " crlf)
+(printout t "Ericsson GA 628 " crlf)
+(car31 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule32
+    (wielkosc_car {wielkosc == duzy})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 0 && rozmowy <= 100})
+	(cena_car {cena > 500 && cena <= 750})
+=>
+(printout t " " crlf)
+(printout t "Ericsson GH 688 " crlf)
+(car32 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule33
+    (wielkosc_car {wielkosc == maly})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 0 && cena <= 250})
+=>
+(printout t " " crlf)
+(printout t "Ericsson GF 768 " crlf)
+(car33 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule34
+    (wielkosc_car {wielkosc == sredni})
+	(czuwanie_h {czuwanie > 0 && czuwanie <= 100 })
+	(rozmowy_min {rozmowy > 200 && rozmowy <= 300})
+	(cena_car {cena > 500 && cena <= 750})
+=>
+(printout t " " crlf)
+(printout t "Ericsson GF 788 " crlf)
+(car34 ())
+(bind ?*zmienna* 1)
+)
+
+(defrule rule35
+    (wielkosc_car {wielkosc == duzy})
+	(czuwanie_h {czuwanie > 100 && czuwanie <= 200 })
+	(rozmowy_min {rozmowy > 100 && rozmowy <= 200})
+	(cena_car {cena > 0 && cena <= 250})
+=>
+(printout t " " crlf)
+(printout t "Ericsson GF 888 " crlf)
+(car35 ())
+(bind ?*zmienna* 1)
+)
